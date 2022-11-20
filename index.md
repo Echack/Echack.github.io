@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Sony Hack](pdf/Sony hack.pdf)
+### [Sony Hack](pdf/Sony_hack.pdf)
 
 - **Class: Cyber Defense** 
 - **Grade: 98**
