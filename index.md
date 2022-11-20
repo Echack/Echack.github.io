@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [App Idea](pdf/Ethics_Paper_1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Programming In Alice**  
+-   **Grade: 93**
 
 ### [Dilemmas In My Chosen Field](pdf/Object_Oriented_Ethics_Paper_2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Object Oriented Programming** 
+-   **Grade: 95**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Everybody Should Know About Cyber Security](pdf/Paper_2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:English Composition/Rhetoric** 
+-   **Grade:97**
 
 ---
 
