@@ -57,7 +57,7 @@ Presentations
 - **Grade:**
 
 
-### [Buffer-Overflow Attack and Heap-based buffer overflow attack](/pdf/sample_presentation.pdf)
+### [Buffer-Overflow Attack and Heap-based buffer overflow attack](pdf/Buffer-Overflow Attack and Heap-based buffer overflow attack.pdf)
 
 - **Class:** 
 - **Grade:**
