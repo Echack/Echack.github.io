@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Dilemmas In My Chosen Field](pdf/Object_Oriented_Ethics_Paper_2.pdf)
 
 -   **Class:** 
 -   **Grade:**
