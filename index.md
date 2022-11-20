@@ -53,13 +53,13 @@ Presentations
 
 ### [Sony Hack](pdf/Sony hack.pdf)
 
-- **Class:** 
+- **Class: Cyber Defense** 
 - **Grade: 98**
 
 
 ### [Buffer-Overflow Attack and Heap-based buffer overflow attack](pdf/Buffer-Overflow Attack and Heap-based buffer overflow attack.pdf)
 
-- **Class:** 
+- **Class: Cyber Defense** 
 - **Grade: 100**
 
 ---
