@@ -54,13 +54,13 @@ Presentations
 ### [Sony Hack](pdf/Sony hack.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade: 98**
 
 
 ### [Buffer-Overflow Attack and Heap-based buffer overflow attack](pdf/Buffer-Overflow Attack and Heap-based buffer overflow attack.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade: 100**
 
 ---
 
