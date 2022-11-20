@@ -11,7 +11,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="pdf/Evan_Hack_Resume (3).pdf">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
+github_username:  Echack # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
