@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Sony Hack](/pdf/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Buffer-Overflow Attack and Heap-based buffer overflow attack](/pdf/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
