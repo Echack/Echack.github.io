@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Sony Hack](/pdf/sample_presentation.pdf)
+### [Sony Hack](pdf/Sony hack.pdf)
 
 - **Class:** 
 - **Grade:**
