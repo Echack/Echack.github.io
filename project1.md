@@ -23,6 +23,7 @@ The user will submit how much money they make each hour and how many hours a wee
 
 ![screenshot](images/p1.jpg)  
 ![screenshot](images/p1_2.jpg)
+
 Fig 1. The code used in the project and the code runs in within visual studio
 
 ## 3. Additional Considerations
