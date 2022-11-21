@@ -7,17 +7,17 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:Echack@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Budget Calculator | CSCI 301](project1)
+### [Budget Calculator | CSCI 32501](project1)
 
 ![Project 1 Thumbnail Name](images/p1.jpg)
 
 ---
-### [Tax Calculator | CSCI 315](project2)
+### [Tax Calculator | CSCI 33201](project2)
 
 ![Project 2 Thumbnail Name](images/p2.JPG)
 
 ---
-### [Online Store | CSCI 325](project3)
+### [Online Store | CSCI 33201](project3)
 
 ![Project 3 Thumbnail Name](images/p3.JPG)
 
