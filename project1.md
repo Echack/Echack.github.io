@@ -28,8 +28,6 @@ Fig 1. The code used in the project and the code runs in within visual studio
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+After making this project, I could add a system that can detect if integers are being submitted and if a string or nothing is submitted an error will occur. I could also make it to where it could calulate the budget needed for a whole year after taxes. The overall code can be made into a work in progress if given the proper time.
 
 [Back to Portfolio](./)
