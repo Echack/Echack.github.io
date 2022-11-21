@@ -21,14 +21,12 @@ The project can be runned by downloading it into any program that can run php. I
 
 The user will choose options given to them. When clicking the submit button they will be taken to another page that will show the total of their selection and it will be put into a table for them to view.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/p3_2.JPG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/p3_3.JPG)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
