@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/p2.JPG)
 
 ---
-### [ | CSCI 325](project3)
+### [Online Store | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/p3.JPG)
 
