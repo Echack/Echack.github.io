@@ -21,14 +21,9 @@ The project can be runned by downloading it into any program that can run c++. I
 
 The user will submit how much money they make each hour and how many hours a week they worked. It will then calculate how much money is made after taxes.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/p1.jpg)  
+![screenshot](images/p1_2.jpg)
+Fig 1. The code used in the project and the code runs in within visual studio
 
 ## 3. Additional Considerations
 
