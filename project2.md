@@ -3,23 +3,23 @@
 Project 1 Title
 ===============
 
--   **Class: Prodedural Programming** 
--   **Grade:100** 
--   **Language(s): C++** 
+-   **Class: Applied Networking** 
+-   **Grade:94** 
+-   **Language(s): PHP** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-It calculates the overall income a person makes within five weeks.
+The project code takes input from the user for the amount of money they earned and their tax rate. It then calculates the tax amount.
 
 ## How to run the program
 
-The project can be runned by downloading it into any program that can run c++. In my project I used the "run" button in Visual Studio Code.
+The project can be runned by downloading it into any program that can run php. I used Visual studio code for the project and to run it I connected it to the php server and would run it there.
 
 ## UI Design
 
-The user will submit how much money they make each hour and how many hours a week they worked. It will then calculate how much money is made after taxes.
+When runned it shows the two bars to submit content. Then when number values are submitted it will then return values of what was submitted. If values input are not integers then it will go to an error screen.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
