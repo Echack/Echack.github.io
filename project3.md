@@ -15,11 +15,11 @@ The user can select four options of what they want to buy. After selecting the i
 
 ## How to run the program
 
-The project can be runned by downloading it into any program that can run c++. In my project I used the "run" button in Visual Studio Code.
+The project can be runned by downloading it into any program that can run php. I used Visual studio code for the project and to run it I connected it to the php server and would run it there.
 
 ## UI Design
 
-The user will submit how much money they make each hour and how many hours a week they worked. It will then calculate how much money is made after taxes.
+The user will choose options given to them. When clicking the submit button they will be taken to another page that will show the total of their selection and it will be put into a table for them to view.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
