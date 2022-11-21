@@ -6,8 +6,7 @@ Tax Calculator
 -   **Class: Applied Networking** 
 -   **Grade:94** 
 -   **Language(s): PHP** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:none**
 
 ## Project description
 
