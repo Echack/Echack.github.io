@@ -21,13 +21,13 @@ The project can be runned by downloading it into any program that can run php. I
 
 When runned it shows the two bars to submit content. Then when number values are submitted it will then return values of what was submitted. If values input are not integers then it will go to an error screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/p2_2.JPG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/p2_3.JPG)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/p2_4.JPG)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
