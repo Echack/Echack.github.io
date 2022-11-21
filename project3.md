@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Online Store
 ===============
 
--   **Class: Prodedural Programming** 
--   **Grade:100** 
--   **Language(s): C++** 
+-   **Class: Applied Networking** 
+-   **Grade:90** 
+-   **Language(s): php** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-It calculates the overall income a person makes within five weeks.
+The user can select four options of what they want to buy. After selecting the items and pressing submit, they will go to another page that will show them the total of their selection.
 
 ## How to run the program
 
