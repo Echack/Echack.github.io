@@ -30,8 +30,6 @@ Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+More things I could consider when doing this project is add an error screen to the project so that if nothing is chosen an error will occur. I could also add more items to the available options in order to add more variety to the project. I could also add a checkout system that will allow users to simulate what it would be like to order from a real website.
 
 [Back to Portfolio](./)
