@@ -3,8 +3,8 @@
 Budget Calculator
 ===============
 
--   **Class: Prodedural Programming** 
--   **Grade:100** 
+-   **Class: System Analysis and Software Design** 
+-   **Grade:90** 
 -   **Language(s): C++** 
 -   **Source Code Repository:none**
 
