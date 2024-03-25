@@ -14,19 +14,19 @@ It is a to-do list that a user can add tasks and remove tasks from.
 
 ## How to run the program
 
-The project can be runned by downloading it into any program that can run c++. In my project I used the "run" button in Visual Studio Code.
+The project can be runned by downloading it into any program that can run c++. In my project I used the "run" button in Apache Netbeans.
 
 ## UI Design
 
-The user will submit how much money they make each hour and how many hours a week they worked. It will then calculate how much money is made after taxes.
+The User will type whatever task they want into the bar and when they click the enter button the task will be added to the list. There is also a delete button that will remove the desired task of the user.
 
 ![screenshot](images/p1.jpg)  
 ![screenshot](images/p1_2.jpg)
 
-Fig 1. The code used in the project and the code runs in within visual studio
+Fig 1. The code used in the project and the code runs in Apache Netbeans.
 
 ## 3. Additional Considerations
 
-After making this project, I could add a system that can detect if integers are being submitted and if a string or nothing is submitted an error will occur. I could also make it to where it could calulate the budget needed for a whole year after taxes. The overall code can be made into a work in progress if given the proper time.
+After making this project, I could develop a better interface that is more pleasing to look at and I could add more features that users could use to help label the importance of tasks. I could also create a calender system that could show what tasks are due on certain days based on the users input.
 
 [Back to Portfolio](./)
