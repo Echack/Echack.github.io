@@ -22,6 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/p3.JPG)
 
 ---
+### [Online Store | CSCI 33201](project3.md)
+
+![Project 4 Thumbnail Name](images/p3.JPG)
 
 Ethics Papers
 -------------
@@ -40,6 +43,7 @@ Ethics Papers
 
 -   **Class:English Composition/Rhetoric** 
 -   **Grade:97**
+
 
 ---
 
