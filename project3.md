@@ -3,9 +3,9 @@
 Online Store
 ===============
 
--   **Class: Applied Networking** 
--   **Grade:90** 
--   **Language(s): php** 
+-   **Class: Computer Architecture** 
+-   **Grade:None** 
+-   **Language(s): none** 
 -   **Source Code Repository:none**
 
 ## Project description
