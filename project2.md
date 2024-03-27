@@ -14,7 +14,7 @@ This projects code allows the user to track what items have been taken out of th
 
 ## How to run the program
 
-?????
+To run the program you would open it up in oracle apex withint a workplace.
 
 ## UI Design
 
