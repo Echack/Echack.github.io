@@ -28,6 +28,10 @@ Fig 1. shows what the UI of the program looks like
 
 Fig 2. shows what the program looks like when it is given an XML file.
 
+![screenshot](images/familytree3.jpg)
+
+Fig 3. shows how when selecting a person you can edit their information and through that information it will change their position on the tree.
+
 ## 3. Additional Considerations
 
 After working on this project with my group/team we came to the conclusion that to improve it we could create a better UI that is more pleasing to look at for users.
