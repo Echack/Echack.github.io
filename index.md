@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/familytree1.jpg)
 
 ---
-### [Tax Calculator | CSCI 33201](project2.md)
+### [Inventory Locator | CSCI 41490](project2.md)
 
-![Project 2 Thumbnail Name](images/p2.JPG)
+![Project 2 Thumbnail Name](images/inventory1.jpg)
 
 ---
 ### [Online Store | CSCI 33201](project3.md)
