@@ -20,7 +20,7 @@ The project can be runned by downloading it into any program that can run c++. I
 
 The User will type whatever task they want into the bar and when they click the enter button the task will be added to the list. There is also a delete button that will remove the desired task of the user.
 
-![screenshot](images/p1.jpg)  
+![screenshot](images/to_do_list1.jpg)  
 ![screenshot](images/p1_2.jpg)
 
 Fig 1. The code used in the project and the code runs in Apache Netbeans.
