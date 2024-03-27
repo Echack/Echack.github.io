@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/p3.JPG)
 
 ---
-### [Online Store | CSCI 33201](project3.md)
+### [To-do list | CSCI 32501](project4.md)
 
-![Project 4 Thumbnail Name](images/p3.JPG)
+![Project 4 Thumbnail Name](images/to_do_list1.jpg)
 
 Ethics Papers
 -------------
