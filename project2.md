@@ -22,25 +22,25 @@ To run the program you would open it up in oracle apex withint a workplace.
 
 When ran there will be a home menu with company information and a box on the top left that when clicked will allow users to select what they are searching for in terms of inventory. Like transaction history and inventory management.
 
-![screenshot](images/inventory1.JPG)  
+![screenshot](images/inventory1.jpg)  
 Fig 1. The login screen
 
-![screenshot](images/inventory2.JPG)  
+![screenshot](images/inventory2.jpg)  
 Fig 2. The home menu that tell employees what the website is used for and what to do.
 
-![screenshot](images/inventory3.JPG)  
+![screenshot](images/inventory3.jpg)  
 Fig 3. This shows what the menu on the top left when clicked will show.
 
-![screenshot](images/inventory4.JPG)  
+![screenshot](images/inventory4.jpg)  
 Fig 4. This shows what the Inventory total looks like in terms of each item.
 
-![screenshot](images/inventory6.JPG)  
+![screenshot](images/inventory6.jpg)  
 Fig 5. The Manage Inventory option shows what the total current items are and gives users the option to purchase more of any type of item.
 
-![screenshot](images/inventory5.JPG)  
+![screenshot](images/inventory5.jpg)  
 Fig 6. This screen will pop up when trying to look at the companies transaction history. Only the manager is allowed to look at this information because it is private information given by consumers.
 
-![screenshot](images/inventory7.JPG)  
+![screenshot](images/inventory7.jpg)  
 Fig 7. This is the transaction history page, it shows what transactions have taken place and when they took place.
 
 ## 3. Additional Considerations
