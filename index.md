@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:Echack@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Budget Calculator | CSCI 23540](project1.md)
+### [HL7 Family Tree Converter | CSCI 49541M](project1.md)
 
-![Project 1 Thumbnail Name](images/p1.jpg)
+![Project 1 Thumbnail Name](images/familytree1.jpg)
 
 ---
 ### [Tax Calculator | CSCI 33201](project2.md)
