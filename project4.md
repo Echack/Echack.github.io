@@ -23,7 +23,7 @@ The User will type whatever task they want into the bar and when they click the 
 ![screenshot](images/to_do_list1.jpg)  
 ![screenshot](images/p1_2.jpg)
 
-Fig 1. The code used in the project and the code runs in Apache Netbeans.
+Fig 1. The UI design of the project and how it looks when being tested.
 
 ## 3. Additional Considerations
 
