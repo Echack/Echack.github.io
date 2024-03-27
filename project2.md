@@ -1,24 +1,24 @@
 [Back to Portfolio](./)
 
-Tax Calculator
+Inventory Locator
 ===============
 
--   **Class: Applied Networking** 
+-   **Class: Database Management** 
 -   **Grade:94** 
--   **Language(s): PHP** 
+-   **Language(s): none** 
 -   **Source Code Repository:none**
 
 ## Project description
 
-The project code takes input from the user for the amount of money they earned and their tax rate. It then calculates the tax amount.
+This projects code allows the user to track what items have been taken out of the main inventory and what items are needed to replenish inventory. It will also give certain users access to transaction data made from purchases.
 
 ## How to run the program
 
-The project can be runned by downloading it into any program that can run php. I used Visual studio code for the project and to run it I connected it to the php server and would run it there.
+?????
 
 ## UI Design
 
-When runned it shows the two bars to submit content. Then when number values are submitted it will then return values of what was submitted. If values input are not integers then it will go to an error screen.
+When ran there will be a home menue with company information and a box on the top left that when clicked will allow users to select what they are searching for in terms of inventory. Like transaction history and inventory control.
 
 ![screenshot](images/p2_2.JPG)  
 Fig 1. The launch screen
@@ -31,6 +31,5 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Additional considerations could be that I could make the calculator show the tax amount for months and a chart to show the difference in amount over time. 
-
+Addition considerations I would make is that I would like to make the UI more pleasing to look at and I would like to add more options for managing inventory. Like where certain inventory will be shipped to and if certain packaging is required in order to ship said inventory.
 [Back to Portfolio](./)
