@@ -18,7 +18,7 @@ The project can be runned by downloading it into any file and by clicking on it 
 
 ## UI Design
 
-The user will submit how much money they make each hour and how many hours a week they worked. It will then calculate how much money is made after taxes.
+The user will import an XML/HL7 file that will give a list of family members and each memmber will be given a label to go along with their standing in the family.
 
 ![screenshot](images/p1.jpg)  
 ![screenshot](images/p1_2.jpg)
