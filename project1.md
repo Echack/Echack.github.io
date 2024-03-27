@@ -18,12 +18,12 @@ The project can be runned by downloading it into any file and by clicking on it 
 
 ## UI Design
 
-The user will import an XML/HL7 file that will give a list of family members and each memmber will be given a label to go along with their standing in the family.
+The user will import an XML/HL7 file that will give a list of family members and each member will be given a label to go along with their standing in the family.
 
 ![screenshot](images/p1.jpg)  
 ![screenshot](images/p1_2.jpg)
 
-Fig 1. This is the code used in the project and it runs with java
+Fig 1. and Fig 2. show what the UI of the program looks like
 
 ## 3. Additional Considerations
 
