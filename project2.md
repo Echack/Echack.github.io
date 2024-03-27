@@ -20,7 +20,7 @@ To run the program you would open it up in oracle apex withint a workplace.
 
 ## UI Design
 
-When ran there will be a home menue with company information and a box on the top left that when clicked will allow users to select what they are searching for in terms of inventory. Like transaction history and inventory control.
+When ran there will be a home menu with company information and a box on the top left that when clicked will allow users to select what they are searching for in terms of inventory. Like transaction history and inventory control.
 
 ![screenshot](images/p2_2.JPG)  
 Fig 1. The launch screen
