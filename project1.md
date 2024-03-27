@@ -20,10 +20,13 @@ The project can be runned by downloading it into any file and by clicking on it 
 
 The user will import an XML/HL7 file that will give a list of family members and each member will be given a label to go along with their standing in the family.
 
-![screenshot](images/p1.jpg)  
-![screenshot](images/p1_2.jpg)
+![screenshot](images/familytree1.jpg)  
 
-Fig 1. and Fig 2. show what the UI of the program looks like
+Fig 1. shows what the UI of the program looks like
+
+![screenshot](images/familytree2.jpg)
+
+Fig 2. shows what the program looks like when it is given an XML file.
 
 ## 3. Additional Considerations
 
