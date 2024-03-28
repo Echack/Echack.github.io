@@ -6,7 +6,7 @@ To-Do List
 -   **Class: Object Oriented** 
 -   **Grade:93** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Vue](https://github.com/Echack/To-do-list)
+-   **Source Code Repository:** [To-do List Repository](https://github.com/Echack/To-do-list)
 
 ## Project description
 
