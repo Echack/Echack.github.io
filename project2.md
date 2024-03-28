@@ -12,7 +12,7 @@ Inventory Locator
 
 This projects code allows the user to track what items have been taken out of the main inventory and what items are needed to replenish inventory. It will also give certain users access to transaction data made from purchases.
 
-++ Important: The website used to create the project experienced technicall difficulties and I was not able to recover the project, but I attained a grade for the overall project. ++
+_Important: The website used to create the project experienced technicall difficulties and I was not able to recover the project, but I attained a grade for the overall project._
 
 ## How to run the program
 
