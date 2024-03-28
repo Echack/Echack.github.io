@@ -10,7 +10,7 @@ HL7 Family Tree Converter
 
 ## Project description
 
-I worked as team with other students to do this project. The proposed program aims to develop a sophisticated tool with the primary objective of reading XML/HL7 files containing patient data provided. The tool will generate a visual list of the patient family tree allowing the user to explore and select different family members. The main focus of this system is to empower users to dynamically reorient the list based on the chosen family member they would like to know about. This will ensure that the identified family member becomes the main center point with the correct assigned ID. The user can then export the file and see the results they want to know that will be located in the file created.
+I worked as team with three other students to do this project. The proposed program aims to develop a sophisticated tool with the primary objective of reading XML/HL7 files containing patient data provided. The tool will generate a visual list of the patient family tree allowing the user to explore and select different family members. The main focus of this system is to empower users to dynamically reorient the list based on the chosen family member they would like to know about. This will ensure that the identified family member becomes the main center point with the correct assigned ID. The user can then export the file and see the results they want to know that will be located in the file created.
 
 ## How to run the program
 
