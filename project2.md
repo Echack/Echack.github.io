@@ -6,7 +6,7 @@ Inventory Locator
 -   **Class: Database Management** 
 -   **Grade:94** 
 -   **Language(s): none** 
--   **Source Code Repository:** [Inventory Locator Repository](https://github.com/Echack/Inventory-Locator)
+-   **Source Code Repository:** [Inventory Locator Repository](https://github.com/Echack/Inventory-Locator/blob/main/Inventory-Locator-Images.md)
 
 ## Project description
 
