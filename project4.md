@@ -5,7 +5,7 @@ To-Do List
 
 -   **Class: Object Oriented** 
 -   **Grade:93** 
--   **Language(s): C++** 
+-   **Language(s): Java** 
 -   **Source Code Repository:none**
 
 ## Project description
