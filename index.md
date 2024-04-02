@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/inventory1.jpg)
 
 ---
-### [Single Cycle Processor | CSCI 33001](project3.md)
+### [Single Cycle Processor (SCP)| CSCI 33001](project3.md)
 
 ![Project 3 Thumbnail Name](images/p3.JPG)
 
