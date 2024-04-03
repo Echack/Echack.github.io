@@ -6,7 +6,7 @@ Single Cycle Processor (SCP)
 -   **Class: Computer Architecture** 
 -   **Grade:None** 
 -   **Language(s): verilog** 
--   **Source Code Repository:none**
+-   **Source Code Repository:** [Single Cycle Processor Repository](https://github.com/Echack/Single-Cycle-Processor)
 
 ## Project description
 
