@@ -39,7 +39,7 @@ Ethics Papers
 -   **Class: Object Oriented Programming** 
 -   **Grade: 95**
 
-### [The Influence of Memes](pdf/Architecture Ethics(1).pdf)
+### [The Influence of Memes](pdf/Architecture_Ethics.pdf)
 
 -   **Class:Computer Architecture** 
 -   **Grade:97**
