@@ -16,7 +16,7 @@ _Important: The website used to create the project experienced technicall diffic
 
 ## How to run the program
 
-To run the program you would open it up in oracle apex withint a workplace.
+To run the program you would open it up in oracle apex within a workplace.
 
 ## UI Design
 
