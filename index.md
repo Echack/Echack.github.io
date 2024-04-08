@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Single Cycle Processor (SCP)| CSCI 33001](project3.md)
 
-![Project 3 Thumbnail Name](images/SCP_Datapath.JPG)
+![Project 3 Thumbnail Name](images/SCP_Datapath.jpg)
 
 ---
 ### [To-do list | CSCI 32501](project4.md)
