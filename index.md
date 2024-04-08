@@ -39,9 +39,9 @@ Ethics Papers
 -   **Class: Object Oriented Programming** 
 -   **Grade: 95**
 
-### [Everybody Should Know About Cyber Security](pdf/Paper_2.pdf)
+### [The Influence of Memes](pdf/Architecture Ethics(1).pdf)
 
--   **Class:English Composition/Rhetoric** 
+-   **Class:Computer Architecture** 
 -   **Grade:97**
 
 
