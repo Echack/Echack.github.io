@@ -18,7 +18,8 @@ The projects goal is for the SCP to simulate the execution of the loop example g
 
 ## UI Design
 
-
+![screenshot](images/SCP_Datapath.jpg) 
+Fig 1. This is the datapath that the SCP will follow when running.
 
 ## 3. Additional Considerations
 
