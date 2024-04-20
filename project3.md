@@ -4,7 +4,7 @@ Single Cycle Processor (SCP)
 ===============
 
 -   **Class: Computer Architecture** 
--   **Grade:None** 
+-   **Grade:90** 
 -   **Language(s): verilog** 
 -   **Source Code Repository:** [Single Cycle Processor Repository](https://github.com/Echack/Single-Cycle-Processor)
 
@@ -21,7 +21,9 @@ The projects goal is for the SCP to simulate the execution of the loop example g
 ![screenshot](images/SCP_Datapath.jpg) 
 Fig 1. This is the datapath that the SCP will follow when running.
 
+![screenshot](images/SCPresult.jpg) 
+Fig 1. This is what the result of the datapath looks like.
 ## 3. Additional Considerations
-
+The one consideration I have is that I would like to make it easier to understand by creating a better display that shows the interconnection between components.
 
 [Back to Portfolio](./)
