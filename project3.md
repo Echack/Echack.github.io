@@ -13,7 +13,7 @@ Single Cycle Processor (SCP)
 The projects goal is for the SCP to simulate the execution of the loop example given in the code byloading and running the machine code.
 
 ## How to run the program
-
+To compile and run: iverilog/*.v && ./a.out
 
 
 ## UI Design
