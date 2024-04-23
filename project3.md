@@ -19,6 +19,7 @@ To compile and run: iverilog/*.v && ./a.out
 ## UI Design
 
 ![screenshot](images/SCP_Datapath.jpg) 
+
 Fig 1. This is the datapath that the SCP will follow when running.
 
 ![screenshot](images/SCPresults.jpg) 
