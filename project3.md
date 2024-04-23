@@ -21,7 +21,7 @@ To compile and run: iverilog/*.v && ./a.out
 ![screenshot](images/SCP_Datapath.jpg) 
 Fig 1. This is the datapath that the SCP will follow when running.
 
-![screenshot](images/SCPresult.jpg) 
+![screenshot](images/SCPresults.jpg) 
 Fig 1. This is what the result of the datapath looks like.
 ## 3. Additional Considerations
 The one consideration I have is that I would like to make it easier to understand by creating a better display that shows the interconnection between components.
